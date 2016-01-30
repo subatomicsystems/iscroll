@@ -1,0 +1,19 @@
+{
+  "name": "iscroll",
+  "version": "1.0.0",
+  "description": "Fork of iScroll for company use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subatomicsystems/iscroll.git"
+  },
+  "author": "Jens Vanderhaeghe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subatomicsystems/iscroll/issues"
+  },
+  "homepage": "https://github.com/subatomicsystems/iscroll#readme"
+}
